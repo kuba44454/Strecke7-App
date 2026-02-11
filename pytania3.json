@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "pytanie": "Bijlage 1: Welke grond treffen we bij G1? (420 LO)",
+        "obrazek": "bijlage1.jpg",
+        "odpowiedzi": [
+            "Altriper Ort",
+            "Schnepfengrund",
+            "Stadtparkgrund"
+        ],
+        "poprawna": "Schnepfengrund"
+    },
+    {
+        "id": 2,
+        "pytanie": "Bijlage 1: Welke autoveer treffen we bij V1? (415)",
+        "obrazek": "bijlage1.jpg",
+        "odpowiedzi": [
+            "Altrip - Neckarau",
+            "Nierstein - Kornsand",
+            "Brühl - Kollerinsel"
+        ],
+        "poprawna": "Altrip - Neckarau"
+    },
+    {
+        "id": 3,
+        "pytanie": "Bijlage 1: Hoe heet de grond bij G1? (422 LO)",
+        "obrazek": "bijlage1.jpg",
+        "odpowiedzi": [
+            "Stadtparkgrund",
+            "Schnepfengrund",
+            "Altriper Ort"
+        ],
+        "poprawna": "Schnepfengrund"
+    },
+    {
+        "id": 4,
+        "pytanie": "U bent afvarend. In welke volgorde komt de de volgende plaatsen tegen?",
+        "obrazek": "",
+        "odpowiedzi": [
+            "Ketsch - Altlussheim - Speyer",
+            "Speyer - Altlussheim - Ketsch",
+            "Altlussheim - Speyer - Ketsch"
+        ],
+        "poprawna": "Altlussheim - Speyer - Ketsch"
+    },
+    {
+        "id": 5,
+        "pytanie": "U bent afvarend. In welke volgorde komt de de volgende gronden tegen.",
+        "obrazek": "",
+        "odpowiedzi": [
+            "Sandgrubengrund - Altriper Ort - Thyssengrund",
+            "Thyssengrund - Altriper Ort - Sandgrubengrund",
+            "Sandgrubengrund - Thyssengrund - Altriper Ort"
+        ],
+        "poprawna": "Sandgrubengrund - Thyssengrund - Altriper Ort"
+    },
+    {
+        "id": 6,
+        "pytanie": "Bijlage 2: Hoe heet het water bij R3? (406 RO)",
+        "obrazek": "bijlage2.jpg",
+        "odpowiedzi": [
+            "Ketscher Althein",
+            "Oberhausener Althein",
+            "Angelhofer Althein"
+        ],
+        "poprawna": "Ketscher Althein"
+    },
+    {
+        "id": 7,
+        "pytanie": "Bijlage 2: Hoe heet het water bij R4? (406 LO)",
+        "obrazek": "bijlage2.jpg",
+        "odpowiedzi": [
+            "Ketscher Althein",
+            "Oberhausener Althein",
+            "Angelhofer Althein"
+        ],
+        "poprawna": "Angelhofer Althein"
+    },
+    {
+        "id": 8,
+        "pytanie": "Bijlage 2: Hoe heet het water bij R2? (409 RO)",
+        "obrazek": "bijlage2.jpg",
+        "odpowiedzi": [
+            "Angelhofer Althein",
+            "Ketscher Althein",
+            "Berghauser Althein"
+        ],
+        "poprawna": "Ketscher Althein"
+    },
+    {
+        "id": 9,
+        "pytanie": "Bijlage 4: U bent opvarend ter hoogte van 390. Waar dient u rekening mee te houden?",
+        "obrazek": "bijlage4.jpg",
+        "odpowiedzi": [
+            "Sterke zijstroming van BB",
+            "Sterke zijstroming van SB",
+            "Sterke onderstroming"
+        ],
+        "poprawna": "Sterke zijstroming van BB"
+    },
+    {
+        "id": 10,
+        "pytanie": "Bijlage 4: Welke plaats treffen we bij P1? (387 RO)",
+        "obrazek": "bijlage4.jpg",
+        "odpowiedzi": [
+            "Rheinsheim",
+            "Philippsburg",
+            "Rheinhausen"
+        ],
+        "poprawna": "Rheinsheim"
+    },
+    {
+        "id": 11,
+        "pytanie": "Bijlage 4: Welke grond treffen we bij G1? (388 RO)",
+        "obrazek": "bijlage4.jpg",
+        "odpowiedzi": [
+            "Rheinhauser Grund",
+            "Philippsburger Grund",
+            "Germersheimer Grund"
+        ],
+        "poprawna": "Philippsburger Grund"
+    },
+    {
+        "id": 12,
+        "pytanie": "Bijlage 4: Welke plaats treffen we bij P2? (389)",
+        "obrazek": "bijlage4.jpg",
+        "odpowiedzi": [
+            "Rheinsheim",
+            "Philippsburg",
+            "Rheinhausen"
+        ],
+        "poprawna": "Philippsburg"
+    },
+    {
+        "id": 13,
+        "pytanie": "Bijlage 4: Welke grond treffen we bij G3? (383 LO)",
+        "obrazek": "bijlage4.jpg",
+        "odpowiedzi": [
+            "Leopoldsgrund",
+            "Apothekergrund",
+            "Germersheimer Grund"
+        ],
+        "poprawna": "Germersheimer Grund"
+    },
+    {
+        "id": 14,
+        "pytanie": "Bijlage 5: Hoe heet het water bij R2? (377 RO)",
+        "obrazek": "bijlage5.jpg",
+        "odpowiedzi": [
+            "Hochtsetter Althein",
+            "Leopoldshafener Althein",
+            "Hagenbacher Althein"
+        ],
+        "poprawna": "Hochtsetter Althein"
+    },
+    {
+        "id": 15,
+        "pytanie": "Bijlage 6: Welke grond treffen we bij G4? (365 LO)",
+        "obrazek": "bijlage6.jpg",
+        "odpowiedzi": [
+            "Biebersgrund",
+            "Maxauer Grund",
+            "Worther Grund"
+        ],
+        "poprawna": "Biebersgrund"
+    },
+    {
+        "id": 16,
+        "pytanie": "U bent in de opvaart. Zet de volgende gronden in de juiste volgorde.",
+        "obrazek": "",
+        "odpowiedzi": [
+            "Goldgrund - Karlsruher Grund - Zollgrund",
+            "Karlsruher Grund - Zollgrund - Goldgrund",
+            "Karlsruher Grund - Goldgrund - Zollgrund"
+        ],
+        "poprawna": "Goldgrund - Karlsruher Grund - Zollgrund"
+    },
+    {
+        "id": 17,
+        "pytanie": "Bijlage 7: Welke grond treffen we bij G1? (353 RO)",
+        "obrazek": "bijlage7.jpg",
+        "odpowiedzi": [
+            "Murg Grund",
+            "Auer Grund",
+            "Zollgrund"
+        ],
+        "poprawna": "Zollgrund"
+    },
+    {
+        "id": 18,
+        "pytanie": "Bijlage 7: Welk water treffen we bij R5? (347 RO)",
+        "obrazek": "bijlage7.jpg",
+        "odpowiedzi": [
+            "Seltz Kieshafen",
+            "Illinger Altwasser",
+            "Goldkanal"
+        ],
+        "poprawna": "Goldkanal"
+    },
+    {
+        "id": 19,
+        "pytanie": "Bijlage 8: Welke zijrivier treffen we bij R6? (334 LO)",
+        "obrazek": "bijlage8.jpg",
+        "odpowiedzi": [
+            "Sauer",
+            "Moder",
+            "Der Murg"
+        ],
+        "poprawna": "Moder"
+    },
+    {
+        "id": 20,
+        "pytanie": "U bent afvarend. In welke volgorde komt de de volgende plaatsen tegen?",
+        "obrazek": "",
+        "odpowiedzi": [
+            "Iffezheim - Munchhausen - Plittersdorf",
+            "Iffezheim - Plittersdorf - Munchhausen",
+            "Iffezheim - Mothern - Munchhausen"
+        ],
+        "poprawna": "Iffezheim - Plittersdorf - Munchhausen"
+    }
+]

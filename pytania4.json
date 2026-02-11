@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "pytanie": "Bijlage 1: Welke haven treffen we bij H2? (421,5 LO)",
+        "obrazek": "bijlage1.jpg",
+        "odpowiedzi": [
+            "Kaiserworthafen",
+            "Luitpoldhafen",
+            "Mundenheimer Hafen"
+        ],
+        "poprawna": "Mundenheimer Hafen"
+    },
+    {
+        "id": 2,
+        "pytanie": "Bijlage 1: Welke reede treffen we bij 421 LO?",
+        "obrazek": "bijlage1.jpg",
+        "odpowiedzi": [
+            "Reede Mannheim",
+            "Reede Ludwigshafen",
+            "Reede Rheinau"
+        ],
+        "poprawna": "Reede Ludwigshafen"
+    },
+    {
+        "id": 3,
+        "pytanie": "Bijlage 1: U bent in de opvaart. Zet de volgende gronden in de juiste volgorde.",
+        "obrazek": "bijlage1.jpg",
+        "odpowiedzi": [
+            "Stadtparkgrund - Schnepfengrund - Altriper Ort",
+            "Schnepfengrund - Stadtparkgrund - Altriper Ort",
+            "Altriper Ort - Schnepfengrund - Stadtparkgrund"
+        ],
+        "poprawna": "Schnepfengrund - Stadtparkgrund - Altriper Ort"
+    },
+    {
+        "id": 4,
+        "pytanie": "Bijlage 3: U bent in de afvaart ter hoogte van 404. Welke autoveer komt u als eerste tegen?",
+        "obrazek": "bijlage3.jpg",
+        "odpowiedzi": [
+            "Altrip - Neckarau",
+            "Nierstein - Kornsand",
+            "Brühl - Kollerinsel"
+        ],
+        "poprawna": "Brühl - Kollerinsel"
+    },
+    {
+        "id": 5,
+        "pytanie": "U bent op waterstand beladen en vaart in de opvaart ter hoogte van Altlussheim. Welke positie ten opzichte van de oevers in het water neemt u in?",
+        "obrazek": "",
+        "odpowiedzi": [
+            "Aan de linkeroever zonder blauw bord",
+            "Ongeveer het midden zonder blauw bord",
+            "Aan de rechteroever met blauw bord."
+        ],
+        "poprawna": "Aan de rechteroever met blauw bord."
+    },
+    {
+        "id": 6,
+        "pytanie": "Bijlage 4: Hoe heet het water bij R1(393,5 LO)",
+        "obrazek": "bijlage4.jpg",
+        "odpowiedzi": [
+            "Angelhofer Althein",
+            "Berghauser Althein",
+            "Oberhausener Althein"
+        ],
+        "poprawna": "Berghauser Althein"
+    },
+    {
+        "id": 7,
+        "pytanie": "U bent afvarend. In welke volgorde komt de de volgende plaatsen tegen?",
+        "obrazek": "",
+        "odpowiedzi": [
+            "Rheinhausen - Rheinsheim - Philippsburg",
+            "Philippsburg - Rheinsheim - Rheinhausen",
+            "Rheinsheim - Philippsburg - Rheinhausen"
+        ],
+        "poprawna": "Rheinhausen - Rheinsheim - Philippsburg"
+    },
+    {
+        "id": 8,
+        "pytanie": "De bodem van de de rijn tussen Mannheim en Iffezheim bestaat voornamelijk uit?",
+        "obrazek": "",
+        "odpowiedzi": [
+            "Rotsen",
+            "Grind",
+            "Zand"
+        ],
+        "poprawna": "Grind"
+    },
+    {
+        "id": 9,
+        "pytanie": "Bijlage 4: Hoe heet de grond bij G2? (394 RO)",
+        "obrazek": "bijlage4.jpg",
+        "odpowiedzi": [
+            "Speyer Grund",
+            "Pioniergrund",
+            "Rheinhauser Grund"
+        ],
+        "poprawna": "Rheinhauser Grund"
+    },
+    {
+        "id": 10,
+        "pytanie": "Bijlage 4: Hoe heet het water bij R5? (387 LO)",
+        "obrazek": "bijlage4.jpg",
+        "odpowiedzi": [
+            "Russheim Althein",
+            "Mechtersheimer Altrhein",
+            "Lingenfelder Althein"
+        ],
+        "poprawna": "Lingenfelder Althein"
+    },
+    {
+        "id": 11,
+        "pytanie": "Bijlage 4: Hoe heet het water bij R7? (381 RO)",
+        "obrazek": "bijlage4.jpg",
+        "odpowiedzi": [
+            "Russheimer Althein",
+            "Mechtersheimer Altrhein",
+            "Hochtsetter Althein"
+        ],
+        "poprawna": "Russheimer Althein"
+    },
+    {
+        "id": 12,
+        "pytanie": "Bijlage 4: Hoe heet de haven bij H1? (384,5 LO)",
+        "obrazek": "bijlage4.jpg",
+        "odpowiedzi": [
+            "Neuer Hafen Germersheim",
+            "Alter Hafen Germersheim",
+            "Hafen Rheinhausen"
+        ],
+        "poprawna": "Alter Hafen Germersheim"
+    },
+    {
+        "id": 13,
+        "pytanie": "Bijlage 5: Hoe heet de plaats bij P1 (373 LO)",
+        "obrazek": "bijlage5.jpg",
+        "odpowiedzi": [
+            "Leimersheim",
+            "Sondernheim",
+            "Rheinsheim"
+        ],
+        "poprawna": "Leimersheim"
+    },
+    {
+        "id": 14,
+        "pytanie": "U bent in de opvaart in welke volgorde komt de volgende gronden tegen?",
+        "obrazek": "",
+        "odpowiedzi": [
+            "Herrengrund - Leopoldsgrund - Eggensteinergrund",
+            "Leopoldsgrund - Eggensteinergrund - Herrengrund",
+            "Eggensteinergrund - Leopoldsgrund - Herrengrund"
+        ],
+        "poprawna": "Herrengrund - Leopoldsgrund - Eggensteinergrund"
+    },
+    {
+        "id": 15,
+        "pytanie": "Bijlage 5: Hoe heet de grond bij G5? (367 LO)",
+        "obrazek": "bijlage5.jpg",
+        "odpowiedzi": [
+            "Leopoldsgrund",
+            "Eggensteinergrund",
+            "Worther Grund"
+        ],
+        "poprawna": "Worther Grund"
+    },
+    {
+        "id": 16,
+        "pytanie": "Bijlage 6: Hoe heet de haven bij H3? (362 RO)",
+        "obrazek": "bijlage6.jpg",
+        "odpowiedzi": [
+            "Maxauer Hafen",
+            "Maximiliansau Hafen",
+            "Stadthafe Karlnsruhe"
+        ],
+        "poprawna": "Maxauer Hafen"
+    },
+    {
+        "id": 17,
+        "pytanie": "Bijlage 6: Welke grond treffen we bij G2? (360 LO)",
+        "obrazek": "bijlage6.jpg",
+        "odpowiedzi": [
+            "Goldgrund",
+            "Maxauer Grund",
+            "Karlsruher Grund"
+        ],
+        "poprawna": "Goldgrund"
+    },
+    {
+        "id": 18,
+        "pytanie": "Bijlage 7: Hoe heet de haven bij H1? (349 LO)",
+        "obrazek": "bijlage7.jpg",
+        "odpowiedzi": [
+            "Port de Lauterbourg",
+            "Kieshafen Seltz",
+            "Port de Beinheim"
+        ],
+        "poprawna": "Port de Lauterbourg"
+    },
+    {
+        "id": 19,
+        "pytanie": "Bijlage 7: Welke plaats treffen we bij P2? (344 LO)",
+        "obrazek": "bijlage7.jpg",
+        "odpowiedzi": [
+            "Lauterbourg",
+            "Mothern",
+            "Munchhausen"
+        ],
+        "poprawna": "Munchhausen"
+    },
+    {
+        "id": 20,
+        "pytanie": "U bent opvarend. In welke volgorde komt de de volgende plaatsen tegen?",
+        "obrazek": "",
+        "odpowiedzi": [
+            "Munchhausen - Plittersdorf - Iffezheim",
+            "Iffezheim - Plittersdorf - Munchhausen",
+            "Munchhausen - Mothern - Iffezheim"
+        ],
+        "poprawna": "Munchhausen - Plittersdorf - Iffezheim"
+    }
+]
