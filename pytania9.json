@@ -1,150 +1,146 @@
 [
-    {
-        "id": 1,
-        "pytanie": "Bijlage 1: Welke haven treffen we bij H1? (424 LO)",
-        "obrazek": "bijlage1.jpg",
-        "odpowiedzi": ["Kaiserworthafen", "Luitpoldhafen", "Mundenheimer Hafen"],
-        "poprawna": "Luitpoldhafen"
-    },
-    {
-        "id": 2,
-        "pytanie": "Bijlage 1: Welke grond treffen we bij G1? (422)",
-        "obrazek": "bijlage1.jpg",
-        "odpowiedzi": ["Altriper Ort", "Schnepfengrund", "Stadtparkgrund"],
-        "poprawna": "Stadtparkgrund"
-    },
-    {
-        "id": 3,
-        "pytanie": "Bijlage 2: Welke plaats treffen we bij P2? (408, RO)",
-        "obrazek": "bijlage2.jpg",
-        "odpowiedzi": ["Otterstadt", "Ketsch", "Altlossheim"],
-        "poprawna": "Ketsch"
-    },
-    {
-        "id": 4,
-        "pytanie": "Bijlage 2: Hoe heet het water bij getal R1? (411 LO)",
-        "obrazek": "bijlage2.jpg",
-        "odpowiedzi": ["Berghauser Althein", "Angelhofer Althein", "Otterstadter Althein"],
-        "poprawna": "Otterstadter Althein"
-    },
-    {
-        "id": 5,
-        "pytanie": "Opvarend op waterstand geladen: Waar vaart u ter hoogte van Altlussheim?",
-        "obrazek": "",
-        "odpowiedzi": ["Langs de linkeroever", "Langs de rechter oever met blauw bord", "In het midden langs de tonnen zonder blauw bord"],
-        "poprawna": "In het midden langs de tonnen zonder blauw bord"
-    },
-    {
-        "id": 6,
-        "pytanie": "U bent afvarend bij Speyer Autobahnbrücke welk wagen veer komt u al eerste tegen?",
-        "obrazek": "",
-        "odpowiedzi": ["Altrip - Neckarau", "Brühl - Kollerinsel", "Neuburg - Neuburgweier"],
-        "poprawna": "Altrip - Neckarau"
-    },
-    {
-        "id": 7,
-        "pytanie": "Bijlage 3: Hoe heet de haven bij H3? (400,5 LO)",
-        "obrazek": "bijlage3.jpg",
-        "odpowiedzi": ["Neuer Hafen Speyer", "Alter Hafen Speyer", "Zoll Hafen"],
-        "poprawna": "Alter Hafen Speyer"
-    },
-    {
-        "id": 8,
-        "pytanie": "Bijlage 3: Hoeveel doorvaart openingen heeft de brug bij B1? (400)",
-        "obrazek": "bijlage3.jpg",
-        "odpowiedzi": ["1", "2", "3"],
-        "poprawna": "1"
-    },
-    {
-        "id": 9,
-        "pytanie": "U bent in de opvaart. Zet de volgende gronden in de juiste volgorde.",
-        "obrazek": "",
-        "odpowiedzi": [
-            "Germersheimer Grund - Philippsburger Grund - Apothekergrund",
-            "Philippsburger Grund - Germersheimer Grund - Apothekergrund",
-            "Germersheimer Grund - Apothekergrund - Philippsburger Grund"
-        ],
-        "poprawna": "Philippsburger Grund - Germersheimer Grund - Apothekergrund"
-    },
-    {
-        "id": 10,
-        "pytanie": "Bijlage 4: Hoe heet het water bij R6? (383 LO)",
-        "obrazek": "bijlage4.jpg",
-        "odpowiedzi": ["Goldkanal", "Hochtsetter Althein", "Russheimer Althein"],
-        "poprawna": "Russheimer Althein"
-    },
-    {
-        "id": 11,
-        "pytanie": "Bijlage 4: Welk water stroomt bij R4? (389 RO)",
-        "obrazek": "bijlage4.jpg",
-        "odpowiedzi": ["Phillipsburger Althein", "Speyerbach zijrivier", "Oberhausener Althein"],
-        "poprawna": "Phillipsburger Althein"
-    },
-    {
-        "id": 12,
-        "pytanie": "Bijlage 5: Hoe heet de plaats bij P2? (381 LO)",
-        "obrazek": "bijlage5.jpg",
-        "odpowiedzi": ["Leimersheim", "Sondernheim", "Neuburgweier"],
-        "poprawna": "Sondernheim"
-    },
-    {
-        "id": 13,
-        "pytanie": "Bijlage 5: Hoe heet de grond bij G2? (378 RO)",
-        "obrazek": "bijlage5.jpg",
-        "odpowiedzi": ["Apothekergrund", "Herrengrund", "Leopoldsgrund"],
-        "poprawna": "Apothekergrund"
-    },
-    {
-        "id": 14,
-        "pytanie": "Bijlage 5: Hoe heet de haven bij H1? (367,5 RO)",
-        "obrazek": "bijlage5.jpg",
-        "odpowiedzi": ["Oliehaven Karlsruhe", "Maxauer Hafen", "Rheinhausen Hafen"],
-        "poprawna": "Oliehaven Karlsruhe"
-    },
-    {
-        "id": 15,
-        "pytanie": "U bent in de opvaart. Op welke volgorde komt u de volgende plaatsen tegen?",
-        "obrazek": "",
-        "odpowiedzi": [
-            "Maxau - Sondernheim - Leimersheim",
-            "Sondernheim - Maxau - Leimersheim",
-            "Sondernheim - Leimersheim - Maxau"
-        ],
-        "poprawna": "Sondernheim - Leimersheim - Maxau"
-    },
-    {
-        "id": 16,
-        "pytanie": "Welke haven kan bij hoogwater worden afgesloten?",
-        "obrazek": "",
-        "odpowiedzi": ["Stadthafe Karlsruhe", "Maximiliansau Hafen", "Maxauer Hafen"],
-        "poprawna": "Stadthafe Karlsruhe"
-    },
-    {
-        "id": 17,
-        "pytanie": "Bijlage 8: Welke grond treffen we bij G2? (344 RO)",
-        "obrazek": "bijlage8.jpg",
-        "odpowiedzi": ["Plittersdorfer Grund", "Auer Grund", "Murg Grund"],
-        "poprawna": "Murg Grund"
-    },
-    {
-        "id": 18,
-        "pytanie": "Bijlage 8: Welk wagenveer treffen we bij V1? (340)",
-        "obrazek": "bijlage8.jpg",
-        "odpowiedzi": ["Seltz - Plittersdorf", "Neuburg - Neuburgweier", "Munchhausen - Steinmauern"],
-        "poprawna": "Seltz - Plittersdorf"
-    },
-    {
-        "id": 19,
-        "pytanie": "Bijlage 8: Welke plaats treffen we bij P2? (344)",
-        "obrazek": "bijlage8.jpg",
-        "odpowiedzi": ["Plittersdorf", "Munchhausen", "Iffezheim"],
-        "poprawna": "Munchhausen"
-    },
-    {
-        "id": 20,
-        "pytanie": "Bijlage 8: Welke grond treffen we bij G3? (337)",
-        "obrazek": "bijlage8.jpg",
-        "odpowiedzi": ["Murg Grund", "Plittersdorfer Grund", "Sandbacher Grund"],
-        "poprawna": "Sandbacher Grund"
-    }
+  {
+    "id": 1,
+    "pytanie": "Bijlage 1: Hoe heet de plaats bij P1? (km 422, LO)",
+    "odpowiedzi": ["Rheinau", "Altrip", "Ludwigshafen"],
+    "poprawna": "Ludwigshafen",
+    "obrazek": "bijlage1.jpg"
+  },
+  {
+    "id": 2,
+    "pytanie": "Bijlage 1: Welke grond treffen we aan bij G2? (km 420)",
+    "odpowiedzi": ["Altriper Ort", "Schnepfengrund", "Stadtparkgrund"],
+    "poprawna": "Schnepfengrund",
+    "obrazek": "bijlage1.jpg"
+  },
+  {
+    "id": 3,
+    "pytanie": "Afvarend: In welke volgorde komt u de volgende plaatsen tegen?",
+    "odpowiedzi": [
+      "Ludwigshafen - Altrip - Otterstadt",
+      "Speyer - Altrip - Ludwigshafen",
+      "Otterstadt - Speyer - Rheinau"
+    ],
+    "poprawna": "Speyer - Altrip - Ludwigshafen",
+    "obrazek": ""
+  },
+  {
+    "id": 4,
+    "pytanie": "Bijlage 1: Welke haven treffen we aan bij H1? (km 424)",
+    "odpowiedzi": ["Kaiserworthafen", "Luitpoldhafen", "Mundenheimer Hafen"],
+    "poprawna": "Luitpoldhafen",
+    "obrazek": "bijlage1.jpg"
+  },
+  {
+    "id": 5,
+    "pytanie": "Bijlage 2: Welke zijrivier treffen we bij R1? (411, LO)",
+    "odpowiedzi": ["Otterstadter Althein", "Ketscher Althein", "Angelhofer Althein"],
+    "poprawna": "Otterstadter Althein",
+    "obrazek": "bijlage2.jpg"
+  },
+  {
+    "id": 6,
+    "pytanie": "Bijlage 2: Hoe heet de plaats bij P1? (km 411, LO)",
+    "odpowiedzi": ["Ketsch", "Otterstadt", "Altlusheim"],
+    "poprawna": "Otterstadt",
+    "obrazek": "bijlage2.jpg"
+  },
+  {
+    "id": 7,
+    "pytanie": "Bijlage 3: Hoe heet de haven bij H2? (399,5 LO)",
+    "odpowiedzi": ["Alter Hafen Speyer", "Neuer Hafen Speyer", "Hafen Rheinhausen"],
+    "poprawna": "Neuer Hafen Speyer",
+    "obrazek": "bijlage3.jpg"
+  },
+  {
+    "id": 8,
+    "pytanie": "Bijlage 3: Hoe heet de plaats bij P1? (km 394, RO)",
+    "odpowiedzi": ["Speyer", "Altlussheim", "Rheinhausen"],
+    "poprawna": "Rheinhausen",
+    "obrazek": "bijlage3.jpg"
+  },
+  {
+    "id": 9,
+    "pytanie": "Bijlage 3: Welke grond treffen we aan bij G1? (397, LO)",
+    "odpowiedzi": ["Sandgrubengrund", "Pioniergrund", "Speyer Grund"],
+    "poprawna": "Pioniergrund",
+    "obrazek": "bijlage3.jpg"
+  },
+  {
+    "id": 10,
+    "pytanie": "Bijlage 4: Welke grond treffen we op G1? (388, RO)",
+    "odpowiedzi": ["Rheinhauser Grund", "Philippsburger Grund", "Germersheimer Grund"],
+    "poprawna": "Philippsburger Grund",
+    "obrazek": "bijlage4.jpg"
+  },
+  {
+    "id": 11,
+    "pytanie": "Bijlage 4: Welke plaats treffen we op P1? (387 RO)",
+    "odpowiedzi": ["Rheinhausen", "Sondernheim", "Rheinsheim"],
+    "poprawna": "Rheinsheim",
+    "obrazek": "bijlage4.jpg"
+  },
+  {
+    "id": 12,
+    "pytanie": "Bijlage 4: Welke brug treffen we aan bij B1? (384)",
+    "odpowiedzi": ["Eisenbahnbrucke Germersheim", "Strassenbrucke Germersheim", "Autobahnbrucke Germersheim"],
+    "poprawna": "Eisenbahnbrucke Germersheim",
+    "obrazek": "bijlage4.jpg"
+  },
+  {
+    "id": 13,
+    "pytanie": "Bijlage 4: Hoe heet het water bij R1? (393 LO)",
+    "odpowiedzi": ["Berghauser Althein", "Oberhausener Althein", "Mechtersheimer Altrhein"],
+    "poprawna": "Berghauser Althein",
+    "obrazek": "bijlage4.jpg"
+  },
+  {
+    "id": 14,
+    "pytanie": "Bijlage 5: Welk water treffen we aan bij R3? (375 RO)",
+    "odpowiedzi": ["Sondernheimer Althein", "Leimersheimer Althein", "Hochstetter Althein"],
+    "poprawna": "Hochstetter Althein",
+    "obrazek": "bijlage5.jpg"
+  },
+  {
+    "id": 15,
+    "pytanie": "Bijlage 6: Wat wordt overgeslagen in haven H4? (365.8 LO)",
+    "odpowiedzi": ["Olie", "Auto's", "Containers"],
+    "poprawna": "Auto's",
+    "obrazek": "bijlage6.jpg"
+  },
+  {
+    "id": 16,
+    "pytanie": "Bijlage 6: Hoe heet de grond bij G2? (359,5 LO)",
+    "odpowiedzi": ["Goldgrund", "Biebersgrund", "Karlsruher Grund"],
+    "poprawna": "Goldgrund",
+    "obrazek": "bijlage6.jpg"
+  },
+  {
+    "id": 17,
+    "pytanie": "Bijlage 7: Hoe heet de grond bij G1? (353 RO)",
+    "odpowiedzi": ["Zollgrund", "Banc de la Frontiere", "Auer Grund"],
+    "poprawna": "Zollgrund",
+    "obrazek": "bijlage7.jpg"
+  },
+  {
+    "id": 18,
+    "pytanie": "Bijlage 7: Welke haven treffen we bij H1? (349 LO)",
+    "odpowiedzi": ["Kieshafen Seltz", "Port de Lauterbourg", "Port de Beinheim"],
+    "poprawna": "Port de Lauterbourg",
+    "obrazek": "bijlage7.jpg"
+  },
+  {
+    "id": 19,
+    "pytanie": "Bijlage 7: Hoe heet het water bij R4? (344,5 RO)",
+    "odpowiedzi": ["Illinger Altwasser", "Neuburgerweide Altwasser", "De Murg"],
+    "poprawna": "De Murg",
+    "obrazek": "bijlage7.jpg"
+  },
+  {
+    "id": 20,
+    "pytanie": "Bijlage 8: Hoe heet het water R3? (343 RO)",
+    "odpowiedzi": ["Der Murg", "Plittersdorfer Althein", "Moder"],
+    "poprawna": "Plittersdorfer Althein",
+    "obrazek": "bijlage8.jpg"
+  }
 ]
