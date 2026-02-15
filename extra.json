@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "pytanie": "Je vaart op de Bovenrijn. De kribben staan onder water. Hoe kun je zien waar de kribben liggen?",
+    "odpowiedzi": ["Aan de krib-bakens op de kribben", "Aan boomtakken op de kribben", "Aan de witte vlakken op de oever"],
+    "poprawna": "Aan de witte vlakken op de oever",
+    "obrazek": ""
+  },
+  {
+    "id": 2,
+    "pytanie": "Wat treffen we tussen kmr 415.5 en 416 RO",
+    "odpowiedzi": ["Kerncentrale Mannheim", "Elektriciteitcentrale Mannheim", "Conteineroverslag Mannheim"],
+    "poprawna": "Elektriciteitcentrale Mannheim",
+    "obrazek": "bijlage1.jpg"
+  },
+  {
+    "id": 3,
+    "pytanie": "Zie de afbeelding. Waar vaart u langs?",
+    "odpowiedzi": ["Kerncentrale Philippsburg", "Elektriciteitcentrale Mannheim", "Elektriciteitcentrale Karlsruhe"],
+    "poprawna": "Elektriciteitcentrale Mannheim",
+    "obrazek": "1.jpg"
+  },
+  {
+    "id": 4,
+    "pytanie": "Waar wordt door afvaart gemeld?",
+    "odpowiedzi": ["421 boven mundenheimer hafen", "418 bij Weisses Hausel", "420 bij Rehbach"],
+    "poprawna": "420 bij Rehbach",
+    "obrazek": "bijlage1.jpg"
+  },
+  {
+    "id": 5,
+    "pytanie": "Uw schip is op waterstand beladen. U bent in de opvaart. Waar vaart u ter hoogte van het Strandbad Mannheim - Neckarau?",
+    "odpowiedzi": ["In het midden zonder blauw bord", "in het midden met blauw bord", "Langs de linkeroever"],
+    "poprawna": "Langs de linkeroever",
+    "obrazek": "bijlage1.jpg"
+  },
+  {
+    "id": 6,
+    "pytanie": "De bodem van de rijn tussen Mannheim en Iffezheim bestaat voornamelijk uit?",
+    "odpowiedzi": ["Grind", "Rotsen", "Zand"],
+    "poprawna": "Grind",
+    "obrazek": ""
+  },
+  {
+    "id": 7,
+    "pytanie": "Waar is de ligplaats Otterstadt?",
+    "odpowiedzi": ["410-411", "410-410,5", "407-408"],
+    "poprawna": "410-411",
+    "obrazek": "bijlage2.jpg"
+  },
+  {
+    "id": 8,
+    "pytanie": "Waar wordt door opvaart gemeld?",
+    "odpowiedzi": ["400 Strassenbrücke Speyer", "392 Berghäuser Grund", "397 Atlussheim"],
+    "poprawna": "397 Atlussheim",
+    "obrazek": "bijlage2.jpg"
+  },
+  {
+    "id": 9,
+    "pytanie": "Waar staat de pegel in Speyer?",
+    "odpowiedzi": ["Boven de Alter Hafen Speyer", "Boven de Strassenbrucke Speyer", "Beneden de alter hafen speyer"],
+    "poprawna": "Beneden de alter hafen speyer",
+    "obrazek": "bijlage3.jpg"
+  },
+  {
+    "id": 10,
+    "pytanie": "Welke brug zien we in de afbeelding?",
+    "odpowiedzi": ["Strassenbrucke speyer", "autobahnbrucke speyer", "autobahnbrucke germersheim"],
+    "poprawna": "autobahnbrucke speyer",
+    "obrazek": "2.jpg"
+  },
+  {
+    "id": 11,
+    "pytanie": "Bij welke 2 punten wodt er gemeld?",
+    "odpowiedzi": ["402 , 397", "400 , 403", "400, 395"],
+    "poprawna": "400, 395",
+    "obrazek": "bijlage3.jpg"
+  },
+  {
+    "id": 12,
+    "pytanie": "Waar wordt door afvaart gemeld?",
+    "odpowiedzi": ["400,5 Pegel Speyer", "393,5 Berghäuser Altrhein", "400 Strassenbrücke Speyer"],
+    "poprawna": "393,5 Berghäuser Altrhein",
+    "obrazek": "bijlage3.jpg"
+  },
+  {
+    "id": 13,
+    "pytanie": "Waar wordt door opvaart gemeld?",
+    "odpowiedzi": ["400,5 Pegel Speyer", "403 autobahnbrucke speyer", "400 Strassenbrücke Speyer"],
+    "poprawna": "400 Strassenbrücke Speyer",
+    "obrazek": "bijlage6.jpg"
+  },
+  {
+    "id": 14,
+    "pytanie": "Wat is H4 voor een haven?",
+    "odpowiedzi": ["Zand en grind", "wasserstraßen und schiffahrtsamt", "Conteiner"],
+    "poprawna": "wasserstraßen und schiffahrtsamt",
+    "obrazek": "bijlage3.jpg"
+  },
+  {
+    "id": 15,
+    "pytanie": "U bent geladen in de opvaart. Hoe vaart u door brug B1 bij een normale waterstand",
+    "odpowiedzi": ["Midden opening met blauw bord", "Opening linker oever met blauw bord", "Opening linker oever zonder blauw bord"],
+    "poprawna": "Opening linker oever zonder blauw bord",
+    "obrazek": "bijlage3.jpg"
+  },
+  {
+    "id": 16,
+    "pytanie": "U bent geladen in de opvaart. Hoe vaart u door brug B2 bij een normale waterstand",
+    "odpowiedzi": ["Langs de Sandgrubengrund met blauw bord", "Langs de Sandgrubengrund zonder blauw bord", "Langs de rechteroever met blauw bord"],
+    "poprawna": "Langs de rechteroever met blauw bord",
+    "obrazek": "bijlage3.jpg"
+  },
+  {
+    "id": 17,
+    "pytanie": "Waar wordt door afvaart gemeld?",
+    "odpowiedzi": ["398 projektierer hafen", "399 sauloch", "395,5 hafen rheinhausen"],
+    "poprawna": "399 sauloch",
+    "obrazek": "bijlage3.jpg"
+  },
+  {
+    "id": 18,
+    "pytanie": "Welke brug zien we in de afbeelding?",
+    "odpowiedzi": ["autobahnbrucke speyer", "rheinbrucke maxau", "Strassenbrucke speyer"],
+    "poprawna": "Strassenbrucke speyer",
+    "obrazek": "3.jpg"
+  },
+  {
+    "id": 19,
+    "pytanie": "Zie de afbeelding. Waar vaart u langs?",
+    "odpowiedzi": ["Pegel Mannheim", "Pegel Maxau", "Pegel Speyer"],
+    "poprawna": "Pegel Speyer",
+    "obrazek": "4.jpg"
+  },
+  {
+    "id": 20,
+    "pytanie": "U bent geladen in de opvaart. Waar vaart u met een normale waterstand bij Speyer",
+    "odpowiedzi": ["Linkeroever", "Midden", "Rechterover"],
+    "poprawna": "Linkeroever",
+    "obrazek": ""
+  }
+]

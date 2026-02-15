@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "pytanie": "Bijlage 1: Welke grond treffen we bij G1? (420 LO)",
+        "pytanie": "Bijlage 1: Welke grond treffen we bij G2? (420 RO)",
         "obrazek": "bijlage1.jpg",
         "odpowiedzi": [
             "Altriper Ort",
@@ -30,7 +30,7 @@
             "Schnepfengrund",
             "Altriper Ort"
         ],
-        "poprawna": "Schnepfengrund"
+        "poprawna": "Stadtparkgrund"
     },
     {
         "id": 4,
