@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "pytanie": "Wat wordt er overgeslagen in haven H2? (385LO)",
+    "odpowiedzi": ["Conteiners en Olie", "Conteiners, zand en grind", "Olie, autos, conteiners"],
+    "poprawna": "Conteiners, zand en grind",
+    "obrazek": "bijlage4.jpg"
+  },
+  {
+    "id": 2,
+    "pytanie": "Wat treffen we bij P2? (389,5RO)",
+    "odpowiedzi": ["Conteineroverslag", "Voormalige kerncentrale", "Kolenoverslag voor centrale"],
+    "poprawna": "Voormalige kerncentrale",
+    "obrazek": "bijlage4.jpg"
+  },
+  {
+    "id": 3,
+    "pytanie": "U bent in de opvaart bij de Spoorbrug van Germersheim. Welke brugopening neemt u?",
+    "odpowiedzi": ["Rechterover", "Linkeroever", "Middel"],
+    "poprawna": "Linkeroever",
+    "obrazek": ""
+  },
+  {
+    "id": 4,
+    "pytanie": "Wat zie je",
+    "odpowiedzi": ["Eisenbahnbrücke Maxau", "Eisenbahnbrücke Speyer", "Eisenbahnbrücke Germersheim"],
+    "poprawna": "Eisenbahnbrücke Germersheim",
+    "obrazek": "5.jpg"
+  },
+  {
+    "id": 5,
+    "pytanie": "Uw schip is op waterstand beladen. U bent in de opvaart ter hoogte van Altussheim. Waar vaart u?",
+    "odpowiedzi": ["Aan de rechteroever met blauw bord", "in het midden zonder blauw bord", "Aan de linkeroever zonder blauw bord"],
+    "poprawna": "Aan de rechteroever met blauw bord",
+    "obrazek": "bijlage3.jpg"
+  },
+  {
+    "id": 6,
+    "pytanie": "Uw schip is op waterstand beladen. U bent in de opvaart ter hoogte van Atomkraftwerk Phillipsburg (389,5 RO)",
+    "odpowiedzi": ["in het midden zonder blauw bord", "Aan de rechteroever met blauw bord", "Langs de groene tonnen zonder blauw bord"],
+    "poprawna": "Aan de rechteroever met blauw bord",
+    "obrazek": "bijlage4.jpg"
+  },
+  {
+    "id": 7,
+    "pytanie": "U bent geladen in de opvaart bij een gemiddelde waterstand. Waar vaart u bij km 370?",
+    "odpowiedzi": ["Aan de rechteroever met blauw bord", "ongeveer het midden zonder blauw bord", "Aan de linkeroever zonder blauw bord"],
+    "poprawna": "Aan de rechteroever met blauw bord",
+    "obrazek": "bijlage2.jpg"
+  },
+  {
+    "id": 8,
+    "pytanie": "Wat is bij km 381 LO?",
+    "odpowiedzi": ["ligplaats", "Laad-los plaats", "Ondiepte"],
+    "poprawna": "ligplaats",
+    "obrazek": "bijlage2.jpg"
+  },
+  {
+    "id": 9,
+    "pytanie": "Op het kaartje is een ondiepte. Waar is die ondiepte?",
+    "odpowiedzi": ["366", "372", "369"],
+    "poprawna": "372",
+    "obrazek": "bijlage5.jpg"
+  },
+  {
+    "id": 10,
+    "pytanie": "U bent geladen in de opvaart bij een gemiddelde waterstand. Waar vaart u bij km 378?",
+    "odpowiedzi": ["in het midden zonder blauw bord", "strak langs de tonnen met blauw bord", "Aan de linkeroever zonder blauw bord"],
+    "poprawna": "Aan de linkeroever zonder blauw bord",
+    "obrazek": "bijlage5.jpg"
+  },
+  {
+    "id": 11,
+    "pytanie": "Er is afvaart boven de Apothekergrund. Waar wacht u als opvaart??",
+    "odpowiedzi": ["U wacht niet en vaart zonder blauwbord strak langs de linkeroever verder", "Beneden de Apothekergrund aan de linkeroever zonder blauw bord", "Beneden de Apothekergrund aan de rechteroever met blauw bord"],
+    "poprawna": "Beneden de Apothekergrund aan de rechteroever met blauw bord",
+    "obrazek": ""
+  },
+  {
+    "id": 12,
+    "pytanie": "Waar wordt door opvaart gemeld?",
+    "odpowiedzi": ["379 Quetschenteich", "378 Apothekereck", "381 Sondernheim"],
+    "poprawna": "379 Quetschenteich",
+    "obrazek": "bijlage5.jpg"
+  },
+  {
+    "id": 13,
+    "pytanie": "Waar wordt door afvaart gemeld?",
+    "odpowiedzi": ["374 Leimersheim", "378 Apothekereck", "377 Hochsetter Altrhein"],
+    "poprawna": "374 Leimersheim",
+    "obrazek": "bijlage5.jpg"
+  },
+  {
+    "id": 14,
+    "pytanie": "Welk orientatiepunt zie we in de afbeelding?",
+    "odpowiedzi": ["Pegel Mannheim", "Pegel Maxau", "Pegel Speyer"],
+    "poprawna": "Pegel Maxau",
+    "obrazek": "6.jpg"
+  },
+  {
+    "id": 15,
+    "pytanie": "Welke gronden liggen aan de linkeroever van de rijn. Boven de Apothekereck tot aan de Stedelijke Rijnhaven van Karlsruhe",
+    "odpowiedzi": ["Herrengrund, Leopoldsgrund, Wörther grund, Biebersgrund, Goldgrund", "Herrengrund, Eggensteinergrund, Leopoldsgrund, Maxauergrund, goldgrund", "Eggensteinergrund, Maxauer grund, wörther grund, biebersgrund, goldgrund"],
+    "poprawna": "Herrengrund, Leopoldsgrund, Wörther grund, Biebersgrund, Goldgrund",
+    "obrazek": ""
+  },
+  {
+    "id": 16,
+    "pytanie": "Zie de afbeelding. Bij welke haven is deze Hochwassersperre (stuw)",
+    "odpowiedzi": ["Stadthafen Karlsruhe", "Oliehaven Karlsruhe", "Maxauer Hafen"],
+    "poprawna": "Stadthafen Karlsruhe",
+    "obrazek": "7.jpg"
+  },
+  {
+    "id": 17,
+    "pytanie": "Welke brug zien we in de afbeelding?",
+    "odpowiedzi": ["Spoorbrug en autobrug Germersheim", "Spoorbrug en autobrug Mannheim", "Spoorbrug en autobrug Maxau"],
+    "poprawna": "Spoorbrug en autobrug Maxau",
+    "obrazek": "8.jpg"
+  },
+  {
+    "id": 18,
+    "pytanie": "Hoeveel doorvaartopeningen heeft de brug bij Maxau?",
+    "odpowiedzi": ["2", "3", "1"],
+    "poprawna": "1",
+    "obrazek": ""
+  },
+  {
+    "id": 19,
+    "pytanie": "U bent geladen in de opvaart. Waar vaart u ter hoogte van de bruggen Maxau?",
+    "odpowiedzi": ["Aan de rechteroever met blauw bord", "Aan de linkeroever zonder blauw bord", "in het midden met blauw bord"],
+    "poprawna": "Aan de linkeroever zonder blauw bord",
+    "obrazek": ""
+  },
+  {
+    "id": 20,
+    "pytanie": "Welke haven kan bij hoogwater worden afgesloten?",
+    "odpowiedzi": ["Oliehaven Karlsruhe", "Maxauer Hafen", "Stadthafen Karlsruhe"],
+    "poprawna": "Stadthafen Karlsruhe",
+    "obrazek": ""
+  },
+  {
+      "id": 21,
+    "pytanie": "Waar staat de Pegel Maxau?",
+    "odpowiedzi": ["linkeroever bij de haven van Karlsruhe", "rechteroever beneden de brug", "rechteroever boven de brug"],
+    "poprawna": "rechteroever beneden de brug",
+    "obrazek": ""
+  },
+  {
+      "id": 22,
+    "pytanie": "Welke haven kan bij hoogwater worden afgesloten?",
+    "odpowiedzi": ["Oliehaven Karlsruhe", "Maxauer Hafen", "Stadthafen Karlsruhe"],
+    "poprawna": "Stadthafen Karlsruhe",
+    "obrazek": ""
+  }
+]
