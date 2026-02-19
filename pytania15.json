@@ -53,7 +53,7 @@
     "pytanie": "Waar wordt door opvaart gemeld?",
     "odpowiedzi": ["400 Strassenbrücke Speyer", "392 Berghäuser Grund", "397 Atlussheim"],
     "poprawna": "397 Atlussheim",
-    "obrazek": "bijlage2.jpg"
+    "obrazek": "bijlage3.jpg"
   },
   {
     "id": 9,
@@ -87,8 +87,8 @@
     "id": 13,
     "pytanie": "Waar wordt door opvaart gemeld?",
     "odpowiedzi": ["400,5 Pegel Speyer", "403 autobahnbrucke speyer", "400 Strassenbrücke Speyer"],
-    "poprawna": "400 Strassenbrücke Speyer",
-    "obrazek": "bijlage6.jpg"
+    "poprawna": "400,5 Pegel Speyer",
+    "obrazek": "bijlage3.jpg"
   },
   {
     "id": 14,

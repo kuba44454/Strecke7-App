@@ -17,7 +17,7 @@
     "id": 3,
     "pytanie": "U bent in de opvaart bij de Spoorbrug van Germersheim. Welke brugopening neemt u?",
     "odpowiedzi": ["Rechterover", "Linkeroever", "Middel"],
-    "poprawna": "Linkeroever",
+    "poprawna": "Middel",
     "obrazek": ""
   },
   {
@@ -46,14 +46,14 @@
     "pytanie": "U bent geladen in de opvaart bij een gemiddelde waterstand. Waar vaart u bij km 370?",
     "odpowiedzi": ["Aan de rechteroever met blauw bord", "ongeveer het midden zonder blauw bord", "Aan de linkeroever zonder blauw bord"],
     "poprawna": "Aan de rechteroever met blauw bord",
-    "obrazek": "bijlage2.jpg"
+    "obrazek": "bijlage4.jpg"
   },
   {
     "id": 8,
     "pytanie": "Wat is bij km 381 LO?",
     "odpowiedzi": ["ligplaats", "Laad-los plaats", "Ondiepte"],
     "poprawna": "ligplaats",
-    "obrazek": "bijlage2.jpg"
+    "obrazek": "bijlage4.jpg"
   },
   {
     "id": 9,

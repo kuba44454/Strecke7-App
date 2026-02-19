@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "pytanie": "Waar wordt door opvaart gemeld?",
+    "odpowiedzi": ["349 boven de haven van Lauterbourg", "350 boven Banc de la frontiere", "352 beneden de Auer Grund"],
+    "poprawna": "350 boven Banc de la frontiere",
+    "obrazek": "bijlage6.jpg"
+  },
+  {
+    "id": 2,
+    "pytanie": "Waar wordt door afvaart gemeld?",
+    "odpowiedzi": ["345 bij Mothern", "349 boven de haven van Lauterbourg", "347 bij Goldkanal"],
+    "poprawna": "347 bij Goldkanal",
+    "obrazek": "bijlage6.jpg"
+  },
+  {
+    "id": 3,
+    "pytanie": "U bent in de opvaart bij Lauterbourg, waar vaart u?",
+    "odpowiedzi": ["Aan de rechteroever met blauw bord", "Aan de linkeroever zonder blauw bord", "Aan de linkeroever met blauw bord"],
+    "poprawna": "Aan de linkeroever zonder blauw bord",
+    "obrazek": ""
+  },
+  {
+    "id": 4,
+    "pytanie": "u bent in de opvaart. zet de volgende gronden in de juiste volgorde",
+    "odpowiedzi": ["Karlsruher Grund, Zollgrund, Goldgrund", "Goldgrund, Karlsruher grund, zollgrund", "Karlsruher grund, goldgrund, zollgrund"],
+    "poprawna": "Goldgrund, Karlsruher grund, zollgrund",
+    "obrazek": ""
+  },
+  {
+    "id": 5,
+    "pytanie": "U bent in de opvaart net beneden het veer van Seltz-Plittersdorf. Waar vaart u?",
+    "odpowiedzi": ["Aan de rechteroever met blauw bord", "in het midden zonder blauw bord", "Aan de linkeroever zonder blauw bord"],
+    "poprawna": "Aan de rechteroever met blauw bord",
+    "obrazek": ""
+  },
+  {
+    "id": 6,
+    "pytanie": "Opvarend op waterstand geladen. Waar vaart u ter hoogte van Sandbacher Grund in het vaarwater",
+    "odpowiedzi": ["Langs de rechteroever met blauw bord", "Langs de linkeroever", "In het midden langs de tonnen zonder blauw bord"],
+    "poprawna": "Langs de linkeroever",
+    "obrazek": "bijlage7.jpg"
+  },
+  {
+    "id": 7,
+    "pytanie": "Welke brug zien we in de afbeelding?",
+    "odpowiedzi": ["Rheinbrucke Speyer", "Brucke Wintersdorf-Beinheim", "Autobahnbrucke Germersheim"],
+    "poprawna": "Brucke Wintersdorf-Beinheim",
+    "obrazek": "9.jpg"
+  },
+  {
+    "id": 8,
+    "pytanie": "Waar vaart u geladen in de opvaart bij de veerpont Seltz - Plittersdorf",
+    "odpowiedzi": ["In het midden langs de tonnen zonder blauw bord", "Langs de rechteroever met blauw bord", "Langs de linkeroever"],
+    "poprawna": "Langs de rechteroever met blauw bord",
+    "obrazek": "bijlage7.jpg"
+  }
+]
