@@ -5,8 +5,6 @@ import random
 import glob
 
 # --- KONFIGURACJA STRONY ---
-# initial_sidebar_state="auto" sprawia, że na telefonie pasek jest schowany, 
-# ale w lewym górnym rogu masz strzałkę/hamburger do jego rozwinięcia.
 st.set_page_config(
     page_title="Strecke 7 - Trening", 
     layout="wide", 
@@ -16,8 +14,7 @@ st.set_page_config(
 # CSS - Stylizacja
 st.markdown("""
     <style>
-    /* Ukrywamy stopkę Streamlit i przycisk Deploy, ale ZOSTAWIAMY pasek górny, 
-       żebyś miał dostęp do menu na telefonie */
+    /* Ukrywamy stopkę Streamlit i przycisk Deploy */
     .stDeployButton {display:none;}
     footer {visibility: hidden;}
     
@@ -27,7 +24,7 @@ st.markdown("""
         font-weight: bold;
     }
     
-    /* Poprawka dla przycisków na mobilkach - żeby były większe */
+    /* Poprawka dla przycisków na mobilkach */
     div.stButton > button:first-child {
         min-height: 50px; 
     }
@@ -44,7 +41,7 @@ def get_exam_files():
 
 @st.cache_data
 def load_all_questions():
-    """Ładuje pytania ze wszystkich plików do jednej wielkiej listy (dla wyszukiwarki)."""
+    """Ładuje pytania ze wszystkich plików do jednej wielkiej listy."""
     all_q = []
     files = get_exam_files()
     for fname in files:
@@ -108,7 +105,9 @@ with st.sidebar:
         st.stop()
         
     if not search_query:
-        selected_file = st.selectbox("📂 Wybierz Zestaw:", exam_files, index=0)
+        # DODANO OPCJĘ "Wszystkie losowo" na samą górę listy
+        options = ["Wszystkie losowo"] + exam_files
+        selected_file = st.selectbox("📂 Wybierz Zestaw:", options, index=0)
     else:
         st.info(f"Szukam frazy: '{search_query}' we wszystkich plikach.")
         selected_file = None
@@ -126,8 +125,20 @@ if search_query:
     if not final_questions:
         st.warning(f"Brak wyników dla: '{search_query}'")
         st.stop()
+elif selected_file == "Wszystkie losowo":
+    # OBSŁUGA TRYBU LOSOWEGO
+    if 'random_all_qs' not in st.session_state:
+        all_qs = load_all_questions()
+        all_qs_copy = list(all_qs) # Kopia, żeby nie modyfikować cache
+        random.shuffle(all_qs_copy)
+        st.session_state['random_all_qs'] = all_qs_copy
+    final_questions = st.session_state['random_all_qs']
 else:
+    # OBSŁUGA KONKRETNEGO PLIKU
     final_questions = load_questions_from_file(selected_file)
+    # Resetujemy zapisaną losową listę, jeśli użytkownik zmieni zestaw
+    if 'random_all_qs' in st.session_state:
+        del st.session_state['random_all_qs']
 
 if show_mistakes_only:
     mistake_questions = [q for q in final_questions if q['global_id'] in st.session_state['mistakes']]
@@ -192,6 +203,8 @@ if search_query:
     header_text = f"🔎 WYNIKI WYSZUKIWANIA | Pytanie {st.session_state['q_index'] + 1} / {total_q}"
 elif show_mistakes_only:
     header_text = f"🚩 TRYB POPRAWY BŁĘDÓW | Pytanie {st.session_state['q_index'] + 1} / {total_q}"
+elif selected_file == "Wszystkie losowo":
+    header_text = f"🎲 WSZYSTKIE LOSOWO | Pytanie {st.session_state['q_index'] + 1} / {total_q}"
 else:
     file_label = current_q.get('source_file', '').replace('.json', '').replace('pytania', 'ZESTAW ').upper()
     header_text = f"{file_label} | Pytanie {st.session_state['q_index'] + 1} / {total_q}"
@@ -199,7 +212,7 @@ else:
 st.caption(header_text)
 st.markdown(f"<p class='big-font'>{current_q['pytanie']}</p>", unsafe_allow_html=True)
 
-# Layout: Na telefonie col1 i col2 ułożą się pionowo (najpierw zdjęcie, potem odpowiedzi)
+# Layout: Na telefonie col1 i col2 ułożą się pionowo
 col1, col2 = st.columns([1.2, 1])
 
 with col1:
@@ -231,7 +244,7 @@ with col2:
         
         st.markdown("---")
         
-    # Nawigacja - pod przyciskami (teraz dostępne również na telefonie w jednej kolumnie)
+    # Nawigacja - pod przyciskami
     st.markdown("---")
     nav_col1, nav_col2 = st.columns(2)
     with nav_col1:
